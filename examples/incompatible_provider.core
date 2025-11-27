@@ -1,0 +1,17 @@
+CAPI=2:
+
+name : fusesoc:publish-example:incompatible:0.1.0
+description: "Example core for testing fusesoc-publish with an incompatible provider"
+license : ISC
+
+targets:
+  default: {}
+
+provider:
+  #OpenCores only allows access to source code for registered users. This makes
+  #it incompatible with fusesoc-publish, which is intended for freely available
+  #source code.
+  name: opencores
+  repo_name: ignoreme
+  repo_root: ""
+  revision: "5446"

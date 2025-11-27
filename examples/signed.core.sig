@@ -1,0 +1,30 @@
+coresig:
+  name: fusesoc:publish-example:signed:0.1.0
+  signatures:
+  - signature: |-
+      -----BEGIN SSH SIGNATURE-----
+      U1NIU0lHAAAAAQAAAhcAAAAHc3NoLXJzYQAAAAMBAAEAAAIBALZwc8smSe98LdE+o7bTis
+      T2RayeeK0VIuH+Np1k6XGXKj45uKQwdmpeT/LRfQQPXJFq2HZWDe5hDRppxEYUWox6YAgL
+      DDmARIRMPYfv/T7kqZBzRkcLYyOtOTp2XjkevHbPX7KIBQ94Nno8VlcF6vMAGsrNuTSzHl
+      suxodLeDlMId7YyqQWLxtacorfmKjYLGyFWPq4AtYBI308yFy7Cr+/YqoXDt5YAOl18lQ4
+      kYSydslNYCWrN7yiPqdewlWF8t4F+dMRIuO8BM/7/PTtkHXhy2n4BTlHvCK9dAdAZlhRX/
+      4i4OwVvBNRfSEoVRBN/2hdHkIE+ATwDzRibX/Y4/aRKL3J0R53ecUeSzK46Ve/KLyXzUpy
+      UrBHhnBO1tLtL+CT6TzTXMkHs/ub3j440dsQxZ8JiVTJGddFX76wLuNZBqHlmEQnPUKasC
+      7evZ/22Rs9d7oX3AcXAK13QRo4wMiw0YmqIGHIxJrzldr1AoCPzSWlHq9VkmkUtjyLfu7q
+      d5kowjH0c+epDnkVct7xxe9o1Pde6alkMbM41yBcZDNKxPPPvZsn12PMfItyJd1ije0UZ8
+      JS8N6iizeG50bdY9BnbbiFVR+Hdmwhtcse0KuF39yrPwVdnNwQGYVIGMMzGA4z2NF1CaMk
+      3+9WMg1Nno9zhuuVuSP7r9VOhENDtt6VAAAABGZpbGUAAAAAAAAABnNoYTUxMgAAAhQAAA
+      AMcnNhLXNoYTItNTEyAAACAEj7ofRroNBHjEoM1f8n0OkEZq0EOfntZxbmjEJBJD2N+Hnd
+      6c3iy2RdB1vYgN3qfxC6Vp6y21S9qWOWkdhSfIntbZeyORCrKofqe8ZJRMog6YeZ8OI2kt
+      W96iMp+HSGjWOQIcNcj3DF7DBI3IKhFSRjEa/d2sgC9AB6zjBpfLsqwqdB1Shngp8vKY5D
+      TgBe7/RKqFuvQI25aXan0PD7n6EB2d55taQARbSrmqgs+2Aroh9JbvR2F48ovd6O+AQOm6
+      1LRepQ64BmdlURs3CvPC+kAD8SYq5MqMpu7vbJaZP4o08h1cEGyYKZbn7HBT8MO5C9DQSv
+      mcWLxlCa0AuXOfrcnTuerar9w31m0SKd6KD2IofnoRRHkUf5vKqUtmcEiC2GZmYKMgRfW5
+      q3J4hRBkq597tU/hPdY4WbQUTx6o1noTqgI1wAx855zekRX2M/0wpk/igAOANITvo85BlU
+      8i8Ic8EssJepWud42N3NcKjOv7bi4dzDTvi9/qWmKOQgqr1LR8bZlL/8Q+u1OeHuU4ZOPg
+      NDQC0msCMRADLiGN566ksEOBytFRkX1zKqi+5Ckl9G75pcTUNWJA3FEG0+iRXCVviI2+rR
+      uJG4ELTSohaMi70+i0x03kGjFABCs96Fh17lcLWZI7+aeu1UanVqlx8UJ6EoZzq6SEWXm2
+      Z5UYoU
+      -----END SSH SIGNATURE-----
+    type: ssh-rsa
+    user_id: user1@example.com

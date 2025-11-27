@@ -1,0 +1,8 @@
+CAPI=2:
+
+name : fusesoc:publish-example:guess_provider:0.1.0
+description: "Example core for testing fusesoc-publish without a provider section"
+license : ISC
+
+targets:
+  default: {}

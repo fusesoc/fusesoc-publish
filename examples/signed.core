@@ -1,0 +1,14 @@
+CAPI=2:
+
+name : fusesoc:publish-example:signed:0.1.0
+description: "Example core for testing fusesoc-publish with a signature file"
+license : ISC
+
+targets:
+  default: {}
+
+provider:
+  name: github
+  user    : fusesoc
+  repo    : fusesoc-examples
+  version : 0.1.0

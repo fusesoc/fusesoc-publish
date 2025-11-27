@@ -1,0 +1,31 @@
+[build-system]
+requires = ["hatchling >= 1.26", "hatch-vcs"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fusesoc-publish"
+
+dependencies = [
+  "fusesoc",
+  "requests",
+]
+dynamic = ["version"]
+
+[project.scripts]
+fusesoc-publish = "publish:main"
+
+[tool.hatch.version]
+source = "vcs"
+
+[tool.hatch.build.hooks.vcs]
+version-file = "_version.py"
+
+[tool.hatch.build.targets.sdist]
+include = [
+  "publish.py",
+]
+
+[tool.hatch.build.targets.wheel]
+include = [
+  "publish.py",
+]

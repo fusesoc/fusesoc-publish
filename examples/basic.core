@@ -1,0 +1,14 @@
+CAPI=2:
+
+name : fusesoc:publish-example:basic:0.1.0
+description: "Example core for testing fusesoc-publish with a provider section"
+license : ISC
+
+targets:
+  default: {}
+
+provider:
+  name: github
+  user    : olofk
+  repo    : serv
+  version : 1.3.0
